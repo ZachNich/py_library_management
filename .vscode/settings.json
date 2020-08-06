@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder:py_library_management}/libraryproject/db.sqlite3",
+            "driver": "SQLite",
+            "name": "database",
+            "previewLimit": 50
+        }
+    ]
+}
